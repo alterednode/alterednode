@@ -1,5 +1,6 @@
 ## Hi there
-I'm a comp sci major at UBC, if you want to see some more about the projects ive done, check out my website! https://cheyne.dev
+I'm a comp sci major at UBC, if you want to see some more about the projects ive done, check out my website! 
+# https://cheyne.dev
 
 
 #### Organizations I've been involved in:
